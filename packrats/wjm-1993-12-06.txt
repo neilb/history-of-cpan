@@ -1,0 +1,68 @@
+From perl-packrats Mon Dec  6 10:17:25 1993
+Received: by feenix.metronet.com id AA16068
+  (5.67a/feenix for wjm); Mon, 6 Dec 1993 04:17:27 -0600
+Return-Path: <perl-packrats>
+Received: by feenix.metronet.com id AA16064
+  (5.67a/feenix for perl-packrats); Mon, 6 Dec 1993 04:17:26 -0600
+Message-Id: <199312061017.AA16064@feenix.metronet.com>
+From: wjm (Bill Middleton)
+Date: Mon, 6 Dec 1993 04:17:25 -0600
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: perl-packrats
+Subject: plots, plans, dreams, and schemes
+
+
+
+  I just finished cross-referencing my archive with what's on the
+current coombs list.  I'll be mirroring what i don't have within
+a few days.  Then i'll find a home for the stuff in my "waiting area",
+which i try to do every now and then.  It's rather different, running
+an archive as a gopher heirarchy, simultaneously with ftp access.
+This is the first time i've gone thru and created a comprehensive
+master list of the entire tree.
+
+  Which leads in to some other potential discussion areas, which
+i'd really like to know y'all's thoughts about.  Maybe we don't
+need any of this stuff, or maybe not.  Of course, it'd mean some
+serious coordination, but i think we could pull it off.  And
+automation is certainly thinkable too, once the processes/definitions
+are given.
+
+
+- Archiving (in general)
+    a. mirroring, updating mirror sites
+    b. versions and version control (pointers to actual sites)
+    c. usability, portability of items
+    d. testing 
+    e. reinventing the wheel (other scripts do the same thing)
+
+- Indexing
+    a. general index record format - naming, author?, version, master archive
+    b. descriptions - current one-liners or (possible) abstract format 
+    c. more?
+
+- Classification
+   a. scripts 
+   b. libraries
+   c. info/announcement files
+   d. instructional postings (hi Tom!)
+   e. discussion and explanations 
+   f. others
+
+- gopher, WWW, and mailserver access 
+    a. heirarchical structure for an archive (gopher)
+    b. http WWW documents for what purposes?
+    c. mailserver request format (common?)
+    d. waisindexing, other search engines?
+    e. other retrieval methods?
+
+  
+  Mark, i'll be happy to create you an account here for the purpose of
+coordinating on this, and once you get coombs back, you could mirror
+whatever we decide to do here and elsewhere.  Could someone get 
+Tim Bunce and other's interested possibly?  Tom, maybe a posting
+from you would encourage others to join us.
+
+
+Bill
+
