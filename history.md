@@ -152,8 +152,9 @@ This allowed modules to write tests based around Perl's core testing model.
 12th Feb 1995, JHI emailed packrats saying "let's do this CPAN thing",
 proposing a directory structure, and that he was going to get on with it.
 
-> For me this is a key moment.
-> It needed someone to say "right, I'm gonna do it"  
+> *For me this is a key moment.
+> It needed someone to say "right, I'm gonna do it"*
+>
 > ["Nothing gets done without someone doing it"](https://groups.google.com/forum/#!searchin/comp.lang.perl/larry$20wall$20nothing$20gets$20done/comp.lang.perl/rSvC42jEiWs/RX5yrkKy_TIJ) &mdash; Larry Wall 1994-11-08 (ie not in response to this).
 
 JARED followed up on the 20th with some proposed principles
@@ -178,7 +179,7 @@ which would be mirrored by the official repositories.
 He said "I have written 33% of the programs needed".
 Up to this point different modules and packages had different master sites.
 
-> This is the second key "I'm gonna do it" moment.
+> *This is the second key "I'm gonna do it" moment.*
 
 29th April: ANDK emailed with details of his "first cut".
 This wasn't for uploads at this point:
@@ -214,7 +215,7 @@ and bundled with Perl from 5.004 onwards
 
 5th June, JHI announced "CPAN v0.000" to perl-packrats, saying it was built from "about a dozen ftp sites". There was still discussion about what the "proper name" should be (REEPH, ARK, EYEKAP).
 
-1st August, JHI announced the <<CPAN "private showing">>
+1st August, JHI announced the "CPAN private showing".
 
 15th August,
 ANDK emailed saying that he'd rethought what was needed for upload,
@@ -285,7 +286,7 @@ August 19-21 1997: O'Reilly ran the first Perl Conference.
 Of note here is that this was the first time that JHI and ANDK met face to face.
 It was the first time many key players in Perl met face to face.
 
-> Does anyone have any photos of ANDK and JHI together at the conference?
+> *Does anyone have any photos of ANDK and JHI together at the conference?*
 
 The [Test](https://metacpan.org/pod/Test) module was released by Joshua Pritikin
 ([https://metacpan.org/author/JPRIT](https://metacpan.org/author/JPRIT))
