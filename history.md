@@ -50,7 +50,7 @@ libwww-perl library for perl4 that Roy maintained
 Perl version 1 included tests that were based on what became the
 test anything protocol (TAP):
 printing "ok #" or "not ok #" to STDOUT.
-Up to Perl 5, tests just effectively did <tt><b>print ok 1\n"</b></tt>.
+Up to Perl 5, tests just effectively did <tt><b>print "ok 1\n"</b></tt>.
 
 The USENET group comp.lang.perl is where most public perl discussion happened
 at this time,
@@ -142,7 +142,7 @@ That first release included
 which effectively defined what distros would look like.
 
 Releasing a module generally involved putting it on an ftp site somewhere,
-then posting about it to USENET group comp.lang.perl
+then posting about it to USENET group comp.lang.perl.
 
 [Test::Harness](https://metacpan.org/pod/Test::Harness)
 was written by ANDK and TIMB,
@@ -275,7 +275,7 @@ Oct 16th: ANDK "I'm tempted to call franz the PAUSE, the Perl Authors Upload SEr
 
 ## The CPAN years
 
-Oct 26th: JHI announced CPAN to c.l.p.a https://groups.google.com/forum/#!topic/comp.lang.perl.announce/1qlLHdviZlY
+Oct 26th: [JHI announced CPAN to comp.lang.perl.announce] (https://groups.google.com/forum/#!topic/comp.lang.perl.announce/1qlLHdviZlY)
 
 May 1996: Gisle Aas ([GAAS](https://metacpan.org/author/GAAS))
 released the first version of libwww-perl-5 (aka LWP).
@@ -364,7 +364,7 @@ On 9th April 2001, the day after 5.6.1 was released,
 was [announced](http://www.nntp.perl.org/group/perl.qa.metrics/2001/04/msg4.html)
 on the perl-qa mailing list.
 
-20th May 2001: PAUSE's official hostname became pause.perl.org
+20th May 2001: PAUSE's official hostname became `pause.perl.org`.
 
 Following discussions at YAPC::EU in 2001,
 Jos Boumans ([KANE](https://metacpan.org/author/KANE))
@@ -542,4 +542,5 @@ These are things I think should be added:
 * Metabase
 * Barbie's role in CPAN Testers
 * Links to lots more of the key packrats messages
+* Mention that the name CPAN came from CTAN (comprehensive TeX archive network)
 
