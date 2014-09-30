@@ -528,7 +528,7 @@ All errors are theirs.
 Key sources:
 
  * The [Perl Timeline](http://history.perl.org/PerlTimeline.html)
- * [PAUSE history](https://pause.perl.org/pause/authenquery?ACTION=pause_06history)
+ * [PAUSE history](https://pause.perl.org/pause/query?ACTION=pause_06history)
  * An archive of the perl-packrats mailing list
 
 ## Todo list
