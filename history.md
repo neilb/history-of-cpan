@@ -454,7 +454,7 @@ Mojolicious took on a life of its own.
 In 2008, people realised that Perl's testing model might be of interest
 outside the Perl community.
 It was at this point that it got the name [TAP](http://testanything.org),
-and people started talking about it more widely. Link to TAP site here.
+and people started talking about it more widely.
 
 Having got to the point where he was maintaining a lot of CPAN dists,
 Rik Signes ([RJBS](https://metacpan.org/author/RJBS))
