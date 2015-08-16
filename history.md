@@ -289,7 +289,7 @@ It was the first time many key players in Perl met face to face.
 > *Does anyone have any photos of ANDK and JHI together at the conference?*
 
 The [Test](https://metacpan.org/pod/Test) module was released by Joshua Pritikin
-([https://metacpan.org/author/JPRIT](https://metacpan.org/author/JPRIT))
+([JPRIT](https://metacpan.org/author/JPRIT))
 in January 1998.
 This introduced the notion of structuring tests using a module.
 It wasn't very widely used,
@@ -427,7 +427,7 @@ In February 2005, Audrey Tang ([AUDREYT](https://metacpan.org/author/AUDREYT))
 started the [Pugs](http://www.pugscode.org) project; Pugs was an implementation
 of Perl6 in Haskell.
 
-8th August 2005: first release of DBIx::Class
+8th August 2005: first release of [DBIx::Class](https://metacpan.org/pod/DBIx::Class)
 
 Stevan Little ([STEVAN](https://metacpan.org/author/STEVAN)) spent some
 months working with AUDREYT on the Perl6 project. One of the things he
