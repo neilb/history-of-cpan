@@ -300,7 +300,10 @@ and Chris Nandor ([CNANDOR](https://metacpan.org/author/CNANDOR))
 had the idea for [CPAN Testers](http://www.cpantesters.org):
 multi-platform testing of distributions uploaded to CPAN.
 The service launched in 1999,
-and the volunteer testers had to upload test reports by hand.
+and the volunteer testers had to upload test reports by hand, sending
+them to a mailing list.
+Initially the "database" was just the archive of that list,
+but that didn't scale once it got into hundreds of thousands of messages.
 
 19th May 1999:
 GBARR emailed P5P a link to a web site which had docs for all modules, crosslinked.
