@@ -322,6 +322,12 @@ This was his second templating system,
 and was driven by the lessons he'd learned writing
 [Text::MetaText](https://metacpan.org/pod/Text::MetaText).
 
+For a good while, `funet.fi` was the master site for CPAN.
+Jarkko had tools to mirror from various Perl ftp sites around the world,
+putting their content into the appropriate place.
+PAUSE was just one of those sources,
+but eventually became the only real source.
+
 [BackPAN](http://backpan.perl.org) was started by ANDK on the 4th February 2000.
 This holds a copy of everything ever released to CPAN,
 including things that are no longer on CPAN.
@@ -422,6 +428,12 @@ Maypole with others, but had different ideas from SIMON on how it should evolve,
 and left to start his own project.
 This resulted in [Catalyst](https://metacpan.org/pod/Catalyst),
 which was first released in February 2005.
+
+As noted earlier, originally `funet.fi` was the master site,
+but at some point after 2005, `perl.org` started mirroring modules
+directly from PAUSE, and the rest from funet.
+Sometime after that PAUSE itself moved to `perl.org` servers as well.
+Since 2001 the `perl.org` server has been maintaining all of CPAN.
 
 In February 2005, Audrey Tang ([AUDREYT](https://metacpan.org/author/AUDREYT))
 started the [Pugs](http://www.pugscode.org) project; Pugs was an implementation
