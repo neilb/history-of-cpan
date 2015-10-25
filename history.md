@@ -50,7 +50,7 @@ libwww-perl library for perl4 that Roy maintained
 Perl version 1 included tests that were based on what became the
 test anything protocol (TAP):
 printing "ok #" or "not ok #" to STDOUT.
-Up to Perl 5, tests just effectively did <tt><b>print ok 1\n"</b></tt>.
+Up to Perl 5, tests just effectively did <tt><b>print "ok 1\n"</b></tt>.
 
 The USENET group comp.lang.perl is where most public perl discussion happened
 at this time,
@@ -110,7 +110,7 @@ created the Module List,
 which was a manually edited text file containing an index
 of all known Perl 5 modules.
 I don't have a copy of the first-ever list,
-but [revision 2.2](https://groups.google.com/forum/#!searchin/comp.lang.perl/"The$20Perl$205$20Module$20List"/comp.lang.perl/3tyvjwLfNDA/21Fd-EDvXOsJ) was posted 7th March 1995.
+but [revision 2.2](http://groups.google.com/groups?selm=perl-faq/module-list-1-794455075%40ig.co.uk) was posted 7th March 1995.
 For a long time this was the place to look,
 to find out what modules were available for Perl 5.
 
@@ -142,7 +142,7 @@ That first release included
 which effectively defined what distros would look like.
 
 Releasing a module generally involved putting it on an ftp site somewhere,
-then posting about it to USENET group comp.lang.perl
+then posting about it to USENET group comp.lang.perl.
 
 [Test::Harness](https://metacpan.org/pod/Test::Harness)
 was written by ANDK and TIMB,
@@ -155,7 +155,7 @@ proposing a directory structure, and that he was going to get on with it.
 > *For me this is a key moment.
 > It needed someone to say "right, I'm gonna do it"*
 >
-> ["Nothing gets done without someone doing it"](https://groups.google.com/forum/#!searchin/comp.lang.perl/larry$20wall$20nothing$20gets$20done/comp.lang.perl/rSvC42jEiWs/RX5yrkKy_TIJ) &mdash; Larry Wall 1994-11-08 (ie not in response to this).
+> ["Nothing gets done without someone doing it"](http://groups.google.com/groups?selm=1994Nov8.014614.13584%40netlabs.com) &mdash; Larry Wall 1994-11-08 (ie not in response to this).
 
 JARED followed up on the 20th with some proposed principles
 (easy to maintain, easy to submit, things should have an abstract,
@@ -275,7 +275,7 @@ Oct 16th: ANDK "I'm tempted to call franz the PAUSE, the Perl Authors Upload SEr
 
 ## The CPAN years
 
-Oct 26th: JHI announced CPAN to c.l.p.a https://groups.google.com/forum/#!topic/comp.lang.perl.announce/1qlLHdviZlY
+Oct 26th: [JHI announced CPAN to c.l.p.a](http://groups.google.com/groups?selm=46o5va$33f%40maureen.teleport.com)
 
 May 1996: Gisle Aas ([GAAS](https://metacpan.org/author/GAAS))
 released the first version of libwww-perl-5 (aka LWP).
@@ -289,7 +289,7 @@ It was the first time many key players in Perl met face to face.
 > *Does anyone have any photos of ANDK and JHI together at the conference?*
 
 The [Test](https://metacpan.org/pod/Test) module was released by Joshua Pritikin
-([https://metacpan.org/author/JPRIT](https://metacpan.org/author/JPRIT))
+([JPRIT](https://metacpan.org/author/JPRIT))
 in January 1998.
 This introduced the notion of structuring tests using a module.
 It wasn't very widely used,
@@ -373,7 +373,7 @@ On 9th April 2001, the day after 5.6.1 was released,
 was [announced](http://www.nntp.perl.org/group/perl.qa.metrics/2001/04/msg4.html)
 on the perl-qa mailing list.
 
-20th May 2001: PAUSE's official hostname became pause.perl.org
+20th May 2001: PAUSE's official hostname became `pause.perl.org`.
 
 Following discussions at YAPC::EU in 2001,
 Jos Boumans ([KANE](https://metacpan.org/author/KANE))
@@ -442,7 +442,7 @@ In February 2005, Audrey Tang ([AUDREYT](https://metacpan.org/author/AUDREYT))
 started the [Pugs](http://www.pugscode.org) project; Pugs was an implementation
 of Perl6 in Haskell.
 
-8th August 2005: first release of DBIx::Class
+8th August 2005: first release of [DBIx::Class](https://metacpan.org/pod/DBIx::Class)
 
 Stevan Little ([STEVAN](https://metacpan.org/author/STEVAN)) spent some
 months working with AUDREYT on the Perl6 project. One of the things he
@@ -469,7 +469,7 @@ Mojolicious took on a life of its own.
 In 2008, people realised that Perl's testing model might be of interest
 outside the Perl community.
 It was at this point that it got the name [TAP](http://testanything.org),
-and people started talking about it more widely. Link to TAP site here.
+and people started talking about it more widely.
 
 Having got to the point where he was maintaining a lot of CPAN dists,
 Rik Signes ([RJBS](https://metacpan.org/author/RJBS))
@@ -543,7 +543,7 @@ All errors are theirs.
 Key sources:
 
  * The [Perl Timeline](http://history.perl.org/PerlTimeline.html)
- * [PAUSE history](https://pause.perl.org/pause/authenquery?ACTION=pause_06history)
+ * [PAUSE history](https://pause.perl.org/pause/query?ACTION=pause_06history)
  * An archive of the perl-packrats mailing list
 
 ## Todo list
@@ -557,4 +557,5 @@ These are things I think should be added:
 * Metabase
 * Barbie's role in CPAN Testers
 * Links to lots more of the key packrats messages
+* Mention that the name CPAN came from CTAN (comprehensive TeX archive network)
 
