@@ -1,6 +1,6 @@
 # CPAN History
 
-### Version 0.1
+### Version 0.2
 
 This document is a history of the Comprehensive Perl Archive Network,
 or [CPAN](http://www.cpan.org). CPAN is a collection of open source
@@ -538,7 +538,9 @@ of the first recorded upload to CPAN.
 This history was edited by Neil Bowers
 ([NEILB](https://metacpan.org/author/NEILB)) from a multitude of sources,
 and email discussions with many of the people listed above.
-All errors are theirs.
+There are likely errors in the above, since it was dredged from various
+memories, and then filtered through NEILB.
+If you spot an error, please raise a github issue, or submit a pull request.
 
 Key sources:
 
