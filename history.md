@@ -1,6 +1,6 @@
 # CPAN History
 
-### Version 0.2
+### Version 0.3
 
 This document is a history of the Comprehensive Perl Archive Network,
 or [CPAN](http://www.cpan.org). CPAN is a collection of open source
@@ -77,6 +77,8 @@ an email from Jared Rhine ([JARED](https://metacpan.org/author/JARED))
 was forwarded to the list,
 in which he wrote "I propose that we cooperate to create a unified structure,
 much like the [CTAN](http://www.ctan.org) project".
+CTAN is the Comprehensive TeX Archive Network,
+a collection of packages for the [TeX typesetting system](https://en.wikipedia.org/wiki/TeX).
 
 On December 7th,
 Bill emailed the CTAN admins asking for any advice and any tools
@@ -591,5 +593,4 @@ These are things I think should be added:
 * Metabase
 * Barbie's role in CPAN Testers
 * Links to lots more of the key packrats messages
-* Mention that the name CPAN came from CTAN (comprehensive TeX archive network)
 
