@@ -309,6 +309,7 @@ but that didn't scale once it got into hundreds of thousands of messages.
 GBARR emailed P5P a link to a web site which had docs for all modules, crosslinked.
 This early version of [search.cpan.org](http://search.cpan.org)
 was running on a machine at his home.
+For many years, `search.cpan.org` was the only search engine for CPAN.
 
 In July 1999, ANDK and Loic Dachary
 ([LDACHARY](https://metacpan.org/author/LDACHARY)) did some major work on PAUSE,
@@ -414,7 +415,8 @@ to improve the overall quality / reliability of CPAN.  Results?
 In August 2003 Ask Bjørn Hansen ([ABH](https://metacpan.org/author/ABH))
 [announced](http://use.perl.org/use.perl.org/printec8f.html?sid=03/08/13/1350221)
 a beta of [cpanratings.perl.org](http://cpanratings.perl.org),
-a site where perl users could review CPAN modules, giving comments and a 1-5 star rating. When you see stars ratings on MetaCPAN, they're coming from CPAN ratings.
+a site where perl users could review CPAN modules, giving comments and a 1-5 star rating.
+When you see stars ratings on MetaCPAN, they're coming from CPAN ratings.
 
 In September 2003, Thomas Klausner ([DOMM](https://metacpan.org/author/DOMM))
 took over CPANTS and rewrote everything, so the data was stored in a database.
@@ -517,6 +519,8 @@ and Mark Jubenville ([IONCACHE](https://metacpan.org/author/IONCACHE))
 then knocked up a web interface on top of that.
 A little while later, [metacpan.org](https://metacpan.org) was born.
 This is the default CPAN search engine for many of us, these days.
+Even so, many search engines like Google and Bing still continued to direct
+people to `search.cpan.org`.
 
 On 13th June 2012, brian d foy ([BDFOY](https://metacpan.org/author/BDFOY))
 gave a tutorial at YAPC::NA, part of which involved the attendees uploading
@@ -532,6 +536,9 @@ He ported it to Mojolicious::Lite, leading to the site you see today:
 On 4th June 2014, Philippe Bruhat (BOOK) had the idea for CPAN Day,
 and proposed (to NEILB) that it be based on the date
 of the first recorded upload to CPAN.
+
+On 25th June 2018, all traffic to `search.cpan.org` was redirected to MetaCPAN,
+making MetaCPAN the only CPAN search engine.
 
 ## Colophon
 
