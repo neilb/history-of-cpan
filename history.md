@@ -461,6 +461,18 @@ released [CPAN::Reporter](https://metacpan.org/pod/CPAN::Reporter),
 which enabled CPAN.pm to submit test reports to CPAN Testers
 when people install things from CPAN.
 
+In April 2008,
+the [first QA Hackathon](http://perl-qa.hexten.net/wiki/index.php/Oslo_QA_Hackathon_2008)
+was held in Oslo, Norway,
+organised by Salve Nilsen ([SJN](https://metacpan.org/author/SJN))
+and Oslo.pm. The purpose of the meeting was given as:
+
+> Quality Assurance-related problems that are easier to solve
+> when everyone is gathered in the same physical location.
+> This can include issues with packaging, testing modules, community support or with tools.
+
+This went on to become a yearly event.
+
 After time away from doing Ruby, SRI returned to Perl in 2008, and started
 the [Mojo](https://metacpan.org/pod/Mojo) project, as a new foundation
 for Catalyst. That didn't work out,
@@ -536,6 +548,12 @@ He ported it to Mojolicious::Lite, leading to the site you see today:
 On 4th June 2014, Philippe Bruhat (BOOK) had the idea for CPAN Day,
 and proposed (to NEILB) that it be based on the date
 of the first recorded upload to CPAN.
+
+In 2017, the QA Hackathon was renamed to be the
+[Perl Toolchain Summit](http://blogs.perl.org/users/book/2017/02/about-the-perl-toolchain-summit.html),
+to more accurately reflect the scope and purpose of the annual gathering.
+It's now established as a four-day summit where we bring together the people
+who are working on the Perl and CPAN toolchain.
 
 On 25th June 2018, all traffic to `search.cpan.org` was redirected to MetaCPAN,
 making MetaCPAN the only CPAN search engine.
