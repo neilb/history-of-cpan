@@ -534,14 +534,22 @@ This is the default CPAN search engine for many of us, these days.
 Even so, many search engines like Google and Bing still continued to direct
 people to `search.cpan.org`.
 
+In 2008,
+Kenichi Ishigaki ([ISHIGAKI](https://metacpan.org/author/ISHIGAKI))
+wrote a [blog post](http://d.hatena.ne.jp/charsbar/20080606/1212704287) titled "CPAN is not a sandbox for kindergarten children" (CPANは幼稚園児の砂場じゃないよね),
+which prompted a lot of discussion amongst Japanese developers.
+Inspired by this, Kentaro Kuribayashi ([KENTARO](https://metacpan.org/author/KENTARO)) thought it would be helpful to have a place where you could discuss ideas for CPAN modules before you release them.
+He created [PrePAN](http://prepan.org), which was [announced in Japan](https://blog.kentarok.org/entry/20111004/1317741098) on 4th October 2011,
+and then [announced more widely](http://blogs.perl.org/users/kentaro/2011/10/introducing-to-prepan.html) on 24th October 2011.
+Yuki Shibazaki ([SHIBAZAKI](https://metacpan.org/author/SHIBAZAKI)) subsequently joined the team, and helps KENTARO maintain PrePAN.
+
 On 13th June 2012, brian d foy ([BDFOY](https://metacpan.org/author/BDFOY))
 gave a tutorial at YAPC::NA, part of which involved the attendees uploading
 their first ever CPAN distribution. There were 150 releases uploaded to PAUSE
 that day, which was the record number of uploads, until CPAN Day 2014.
 
-In late 2012
-Kenichi Ishigaki ([ISHIGAKI](https://metacpan.org/author/ISHIGAKI))
-resurrected CPANTS in 2012, while preparing a talk for YAPC Asia 2012.
+In late 2012,
+ISHIGAKI resurrected CPANTS, while preparing a talk for YAPC Asia 2012.
 He ported it to Mojolicious::Lite, leading to the site you see today:
 [cpants.cpanauthors.org](http://cpants.cpanauthors.org).
 
@@ -579,7 +587,6 @@ These are things I think should be added:
 
 * CPAN.pm
 * CPAN Testers analysis
-* PrePAN
 * Dancer
 * Metabase
 * Barbie's role in CPAN Testers
